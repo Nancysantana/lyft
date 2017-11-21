@@ -1,3 +1,10 @@
 /*
  * Estilos de tu proyecto
  */
+ /*font-family: 'Montserrat', sans-serif;*/
+ body {
+   background: blue;
+ }
+img {
+  width: 80px;
+}
